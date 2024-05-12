@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "185265483545",
+    "project_id": "pczwebshop2024",
+    "storage_bucket": "pczwebshop2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185265483545:android:f90542e3e0ff69868bdf88",
+        "android_client_info": {
+          "package_name": "com.example.pczwebshop2024"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185265483545-94hmdvafrsgt6jsnaf4u1pf4gr8nti9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pczwebshop2024",
+            "certificate_hash": "6727c9d9d12e877404b456654cfd5b33bdcf06b9"
+          }
+        },
+        {
+          "client_id": "185265483545-kmi19a5mj4toishi1p9nuaboqtndt0ce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACKZg636qmEoQtBHRvK3XDyBvNdYrio9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185265483545-kmi19a5mj4toishi1p9nuaboqtndt0ce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

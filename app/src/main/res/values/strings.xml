@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pczwebshop2024</string>
+    <string name="register">Register</string>
+    <string name="default_web_client_id">185265483545-kmi19a5mj4toishi1p9nuaboqtndt0ce.apps.googleusercontent.com</string>
+    <string name="item_placeholder">Item Placeholder</string>
+    <string name="item_info_placeholder">Item Info Placeholder</string>
+</resources>
