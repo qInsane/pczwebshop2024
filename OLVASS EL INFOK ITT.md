@@ -1,3 +1,5 @@
+MINDENEK ELŐTT HA SIMÁN AKARSZ BELÉPNI AKKOR A REGISZTRÁCIÓ UTÁN A USERNAME FIELDBE AZ EMAILT ÍRD!!!
+
 Hali előre is köszi annak aki javítja a kódomat.
 FONTOS ha lehet 4gb ramot adj az IDE-nek hogy ne laggoljon az app.
 Itt szeretnék pár dolgot leírni hogy mit keress és hol hogy könnyítsem a dolgodat.
